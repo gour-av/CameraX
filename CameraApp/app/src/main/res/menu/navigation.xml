@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:title="Main Frame Style"
+            android:icon="@drawable/ic_image_drawer_folder"
+            android:id="@+id/menu_style"/>
+        <item
+            android:title="Settings"
+              android:icon="@drawable/ic_settings"
+            android:id="@+id/menu_settings"/>
+        <item
+            android:title="Share  App"
+            android:icon="@drawable/ic_share"
+            android:id="@+id/menu_share"/>
+        <item
+            android:title="Not Happy With US"
+             android:icon="@drawable/ic_sad_face_in_rounded_square"
+            android:id="@+id/not_happy"/>
+        <item
+            android:title="Rate US"
+          android:icon="@drawable/ic_star"
+            android:id="@+id/rate"/>
+        <item
+            android:title="Our Recognition"
+            android:icon="@drawable/ic_badge"
+            android:id="@+id/recognition"/>
+        <item
+            android:title="FAQ"
+            android:icon="@drawable/ic_information"
+            android:id="@+id/faq"/>
+
+        <item
+            android:title="Privacy"
+          android:icon="@drawable/ic_privacy_policy"
+            android:id="@+id/menu_information"/>
+    </group>
+</menu>
