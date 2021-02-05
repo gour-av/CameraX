@@ -11,7 +11,9 @@ Album_name and then I am storing the album_name into the database using room dat
 <img src="CameraXAppImages/feature_6.png" width="200" height="250"><img src="CameraXAppImages/feature_5.png" width="200" height="250">
 
 <img src="CameraXAppImages/feature_3.png" width="200" height="250"><img src="CameraXAppImages/feature_2.png" width="200" height="250">
-<img src="CameraXAppImages/feature_1.png" width="200" height="200">
+
+
+<img src="CameraXAppImages/feature_4.png" width="200" height="250">
 
 # Libraries this app uses
 ###### CameraX Libraries - 
